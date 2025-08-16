@@ -1,4 +1,4 @@
-## Hi there 👋
+## NAMU KIM
 
 <!--
 **kk0506014/kk0506014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kk0506014"
+  width="600"
+  height="300"
+/>
+</a>
 -->
